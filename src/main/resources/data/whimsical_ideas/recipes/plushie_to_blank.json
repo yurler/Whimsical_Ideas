@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "whimsical_ideas:plushie_doll"
+    }
+  ],
+  "result": {
+    "item": "whimsical_ideas:blank_plushie",
+    "count": 1
+  }
+}

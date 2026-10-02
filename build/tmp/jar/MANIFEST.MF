@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: whimsical_ideas
+Specification-Vendor: yurler
+Specification-Version: 1
+Implementation-Title: whimsical_ideas
+Implementation-Version: 1.0.0
+Implementation-Vendor: yurler
+

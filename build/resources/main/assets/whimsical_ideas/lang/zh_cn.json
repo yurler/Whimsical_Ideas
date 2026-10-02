@@ -1,0 +1,15 @@
+{
+  "block.whimsical_ideas.plushie_doll": "玩偶",
+  "block.whimsical_ideas.plushie_crafting_table": "玩偶制作台",
+  "item.whimsical_ideas.plushie_doll": "玩偶",
+  "item.whimsical_ideas.blank_plushie": "玩偶兑换券",
+  "item.whimsical_ideas.plushie_crafting_table": "玩偶制作台",
+  "itemGroup.whimsical_ideas.simple_models": "奇思妙想",
+  "gui.whimsical_ideas.name": "玩家名称",
+  "gui.whimsical_ideas.name_hint": "输入名字...",
+  "gui.whimsical_ideas.craft": "制作",
+  "gui.whimsical_ideas.local_skin": "本地图片",
+  "gui.whimsical_ideas.api.mojang": "皮肤来源：正版（Mojang）",
+  "gui.whimsical_ideas.api.littleskin": "皮肤来源：皮肤站（LittleSkin）",
+  "gui.whimsical_ideas.help": "玩偶制作台用法：\n1. 在输入槽放入玩偶兑换券\n2. 在名字框输入玩家名，或从下拉框选择本地图片\n3. 点击「制作」生成玩偶\n4. 玩偶皮肤会从所选来源获取\n5. 本地图片放在 config/doll/ 文件夹\n6. 做好的玩偶再合成一次可变回玩偶兑换券"
+}

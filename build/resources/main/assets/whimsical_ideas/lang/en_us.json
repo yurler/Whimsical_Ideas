@@ -1,0 +1,15 @@
+{
+  "block.whimsical_ideas.plushie_doll": "Plushie Doll",
+  "block.whimsical_ideas.plushie_crafting_table": "Plushie Crafting Table",
+  "item.whimsical_ideas.plushie_doll": "Plushie Doll",
+  "item.whimsical_ideas.blank_plushie": "Plushie Voucher",
+  "item.whimsical_ideas.plushie_crafting_table": "Plushie Crafting Table",
+  "itemGroup.whimsical_ideas.simple_models": "Whimsical Ideas",
+  "gui.whimsical_ideas.name": "Player Name",
+  "gui.whimsical_ideas.name_hint": "Enter a name...",
+  "gui.whimsical_ideas.craft": "Craft",
+  "gui.whimsical_ideas.local_skin": "Local Skin",
+  "gui.whimsical_ideas.api.mojang": "Skin Source: Mojang",
+  "gui.whimsical_ideas.api.littleskin": "Skin Source: LittleSkin",
+  "gui.whimsical_ideas.help": "Plushie Crafting Table Usage:\n1. Put a Plushie Voucher in the input slot\n2. Enter a player name, or select a local image from the dropdown\n3. Click 'Craft' to create the plushie\n4. Skin is fetched from the selected source\n5. Local images go in config/doll/\n6. Craft a finished plushie again to turn it back into a Plushie Voucher"
+}

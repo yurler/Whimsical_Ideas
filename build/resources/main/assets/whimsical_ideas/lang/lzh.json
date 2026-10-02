@@ -1,0 +1,15 @@
+{
+  "block.whimsical_ideas.plushie_doll": "偶",
+  "block.whimsical_ideas.plushie_crafting_table": "偶作臺",
+  "item.whimsical_ideas.plushie_doll": "偶",
+  "item.whimsical_ideas.blank_plushie": "偶券",
+  "item.whimsical_ideas.plushie_crafting_table": "偶作臺",
+  "itemGroup.whimsical_ideas.simple_models": "奇思妙想",
+  "gui.whimsical_ideas.name": "名",
+  "gui.whimsical_ideas.name_hint": "書其名……",
+  "gui.whimsical_ideas.craft": "作",
+  "gui.whimsical_ideas.local_skin": "本地圖",
+  "gui.whimsical_ideas.api.mojang": "膚源：正版（Mojang）",
+  "gui.whimsical_ideas.api.littleskin": "膚源：膚站（LittleSkin）",
+  "gui.whimsical_ideas.help": "偶作臺用法：\n一、置偶券於入槽\n二、書名於框，或擇本地圖\n三、按「作」以成偶\n四、偶之膚取於所擇之源\n五、本地圖置於 config/doll/\n六、再合已成之偶，可復為偶券"
+}

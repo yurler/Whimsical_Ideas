@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WIW",
+    "PFP",
+    "P P"
+  ],
+  "key": {
+    "W": {
+      "tag": "whimsical_ideas:plushie_wool"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "P": {
+      "tag": "whimsical_ideas:plushie_planks"
+    },
+    "F": {
+      "tag": "whimsical_ideas:plushie_raw_fish"
+    }
+  },
+  "result": {
+    "item": "whimsical_ideas:plushie_crafting_table"
+  }
+}

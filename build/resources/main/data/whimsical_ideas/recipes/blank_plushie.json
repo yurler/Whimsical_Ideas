@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WFW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "tag": "whimsical_ideas:plushie_wool"
+    },
+    "F": {
+      "tag": "whimsical_ideas:plushie_raw_fish"
+    }
+  },
+  "result": {
+    "item": "whimsical_ideas:blank_plushie"
+  }
+}
