@@ -30,8 +30,8 @@ public class PlushieCraftingTableScreen extends AbstractContainerScreen<PlushieC
 
     public PlushieCraftingTableScreen(PlushieCraftingTableMenu menu, Inventory playerInv, Component title) {
         super(menu, playerInv, title);
-        this.imageWidth = 176;
-        this.imageHeight = 166;
+        this.imageWidth = 175;
+        this.imageHeight = 167;
     }
 
     @Override

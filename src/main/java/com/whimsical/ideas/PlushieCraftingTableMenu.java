@@ -32,7 +32,7 @@ public class PlushieCraftingTableMenu extends AbstractContainerMenu {
         container.startOpen(playerInv.player);
 
         // 输入槽：图片 (7, 14)
-        this.addSlot(new Slot(container, SLOT_INPUT, 7, 14) {
+        this.addSlot(new Slot(container, SLOT_INPUT, 8, 15) {
             @Override
             public boolean mayPlace(ItemStack stack) {
                 return stack.getItem() instanceof BlankPlushieItem;
@@ -40,7 +40,7 @@ public class PlushieCraftingTableMenu extends AbstractContainerMenu {
         });
 
         // 输出槽：图片 (7, 52)
-        this.addSlot(new Slot(container, SLOT_OUTPUT, 7, 52) {
+        this.addSlot(new Slot(container, SLOT_OUTPUT, 8, 53) {
             @Override
             public boolean mayPlace(ItemStack stack) { return false; }
         });
@@ -48,12 +48,12 @@ public class PlushieCraftingTableMenu extends AbstractContainerMenu {
         // 玩家背包
         for (int row = 0; row < 3; row++) {
             for (int col = 0; col < 9; col++) {
-                this.addSlot(new Slot(playerInv, col + row * 9 + 9, 8 + col * 18, 87 + row * 18));
+                this.addSlot(new Slot(playerInv, col + row * 9 + 9, 8 + col * 18, 86 + row * 18));
             }
         }
         // 快捷栏
         for (int col = 0; col < 9; col++) {
-            this.addSlot(new Slot(playerInv, col, 8 + col * 18, 145));
+            this.addSlot(new Slot(playerInv, col, 8 + col * 18, 144));
         }
     }
 
